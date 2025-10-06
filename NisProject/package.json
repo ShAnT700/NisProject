@@ -1,0 +1,19 @@
+{
+  "name": "nisproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.55.1",
+    "playwright-core": "^1.55.1",
+    "undici-types": "^7.13.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.0.0",
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
