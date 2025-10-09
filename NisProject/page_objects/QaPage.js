@@ -10,6 +10,5 @@ export class QaPage {
     this.submitButton = page.getByRole("button", { name: "Submit" });
     this.succesSubWindowText = page.getByRole("heading", { name: /successfully submitted/ });
     this.succesSubWinCloseButtn = page.getByRole("button", { name: "CLOSE" });
-
   }
 }
